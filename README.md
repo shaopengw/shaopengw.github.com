@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+#  魏少朋 Shaopeng Wei
+<img src="photo.jpg" alt="drawing" width="100"/>
 
-You can use the [editor on GitHub](https://github.com/shaopengw/shaopengw.github.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About Me
+I’m currently a PhD candicate in Southwestern University of Finance and Economics (SWUFE)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
++ 2019-now   Southwestern University of Finance and Economics (SWUFE), Chengdu, China
+    - PhD student, Majoring in Management of Big Data, supervised by [**Gang Kou**](https://scholar.google.com/citations?hl=zh-CN&user=dRL7HngAAAAJ) and [**Yu Zhao**](https://scholar.google.com/citations?hl=zh-CN&user=J3yW0aYAAAAJ) (co-supervise), 
++ 2015-2019  Huazhong Agricultural University (HZAU), Wuhan, China
+    - Majored in Accounting, Bachelor’s degree
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Research
+My research interests include graph learning and its relevant application on Fintech and recommendation system.
 
-# Header 1
-## Header 2
-### Header 3
+### Working Paper
++	[Dual Hierarchical Attention Networks for Bi-typed Heterogeneous Graph Learning.](https://arxiv.org/pdf/2112.13078.pdf)
++ [Bankruptcy Prediction via Mixing Intra-Risk and Spillover-Risk](https://arxiv.org/pdf/2202.03874.pdf)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaopengw/shaopengw.github.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contact
+weisp@smail.swufe.edu.cn
