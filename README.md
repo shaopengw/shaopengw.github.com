@@ -5,7 +5,7 @@
 I’m currently a PhD candicate in Southwestern University of Finance and Economics (SWUFE).
 
 ## Experience
-+ 2022-2023    joint-PhD student, supervised by [**Ce Zhang**](https://ds3lab.inf.ethz.ch/members/ce-zhang.html), ETH Zurich, Switzerland
++ 2022-2023    joint-PhD student founded by CSC, supervised by [**Ce Zhang**](https://ds3lab.inf.ethz.ch/members/ce-zhang.html), ETH Zurich, Switzerland
 + 2019-now   Southwestern University of Finance and Economics (SWUFE), Chengdu, China
     - PhD student, Majoring in Management of Big Data, supervised by [**Gang Kou**](https://scholar.google.com/citations?hl=zh-CN&user=dRL7HngAAAAJ) and [**Yu Zhao**](https://scholar.google.com/citations?hl=zh-CN&user=J3yW0aYAAAAJ) (co-supervise)
 + 2015-2019  Huazhong Agricultural University (HZAU), Wuhan, China
