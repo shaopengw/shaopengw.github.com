@@ -14,7 +14,7 @@ I’m currently a PhD candicate in Southwestern University of Finance and Econom
 
 
 ## Research
-My research interests include graph learning and its relevant application on Fintech and recommendation system.
+My research interests include graph learning and its relevant applications on Fintech and recommendation system.
 
 ### Working Paper
 +	[Dual Hierarchical Attention Networks for Bi-typed Heterogeneous Graph Learning.](https://arxiv.org/pdf/2112.13078.pdf)
