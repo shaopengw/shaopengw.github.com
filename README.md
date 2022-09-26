@@ -18,7 +18,7 @@ My research interests include graph learning and its relevant applications on Fi
 
 ### Working Paper
 +	[Dual Hierarchical Attention Networks for Bi-typed Heterogeneous Graph Learning.](https://arxiv.org/pdf/2112.13078.pdf)
-+ [Bankruptcy Prediction via Mixing Intra-Risk and Spillover-Risk](https://arxiv.org/pdf/2202.03874.pdf)
++ [Combining Intra-Risk and Contagion Risk for Enterprise Bankruptcy Prediction Using Graph Neural Networks](https://arxiv.org/pdf/2202.03874.pdf)
 
 ## Program
 + Lead Researcher，Research on dynamic contagion risk from multi-source data of enterprises based on deep learnng. Supported by the Fundamental Research Funds for the Central Universities (JBK2207004), RMB 10000.
