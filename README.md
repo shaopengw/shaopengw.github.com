@@ -16,8 +16,11 @@ I’m currently a PhD candicate in Southwestern University of Finance and Econom
 ## Research
 My research interests include graph learning and its relevant applications on Fintech and recommendation system.
 
+### Publications
++ [Dual Hierarchical Attention Networks for Bi-typed Heterogeneous Graph Learning.](https://arxiv.org/pdf/2112.13078.pdf)
+
 ### Working Paper
-+	[Dual Hierarchical Attention Networks for Bi-typed Heterogeneous Graph Learning.](https://arxiv.org/pdf/2112.13078.pdf)
+
 + [Combining Intra-Risk and Contagion Risk for Enterprise Bankruptcy Prediction Using Graph Neural Networks](https://arxiv.org/pdf/2202.03874.pdf)
 
 ## Program
