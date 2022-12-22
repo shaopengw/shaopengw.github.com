@@ -22,11 +22,10 @@ My research interests include graph learning and its relevant applications on Fi
 ### Working Paper
 
 + [Combining Intra-Risk and Contagion Risk for Enterprise Bankruptcy Prediction Using Graph Neural Networks](https://arxiv.org/pdf/2202.03874.pdf)
++ [Graph Learning: A Comprehensive Survey and Future Directions](https://arxiv.org/pdf/2212.08966.pdf)
 
 ## Program
 + Lead Researcher，Research on dynamic contagion risk from multi-source data of enterprises based on deep learnng. Supported by the Fundamental Research Funds for the Central Universities (JBK2207004), RMB 10000.
 
 ## Contact
-weishaopeng1997@gmail.com
-
 shaopeng.wei@inf.ethz.ch
