@@ -1,5 +1,5 @@
 #  魏少朋 Shaopeng Wei
-<img src="photo.jpg" alt="drawing" width="100"/>
+<img src="new.JPG" alt="drawing" width="100"/>
 
 ## About Me
 I’m currently a PhD candicate in Southwestern University of Finance and Economics (SWUFE).
