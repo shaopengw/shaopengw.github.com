@@ -18,12 +18,12 @@ My research interests include graph learning and its relevant applications on Fi
 
 ### Publications
 
-+ Dual Hierarchical Attention Networks for Bi-typed Heterogeneous Graph Learning. [[Paper](https://arxiv.org/pdf/2112.13078.pdf)]  
++ Dual Hierarchical Attention Networks for Bi-typed Heterogeneous Graph Learning. [[Paper](https://ieeexplore.ieee.org/document/9954185)]  
 
 &#8195;&#8195;Yu Zhao, ***Shaopeng Wei***, Huaming Du, Xingyan Chen, Qing Li, Fuzhen Zhuang, Ji Liu, Gang Kou   
 
 &#8195;&#8195;**IEEE Transactions on Knowledge and Data Engineering (TKDE)** (2022)
-+ Stock Movement Prediction Based on Bi-typed Hybrid-relational Market Knowledge Graph via Dual Attention Networks. [[Paper](https://arxiv.org/pdf/2201.04965.pdf)]  
++ Stock Movement Prediction Based on Bi-typed Hybrid-relational Market Knowledge Graph via Dual Attention Networks. [[Paper](https://ieeexplore.ieee.org/document/9942340)]  
 
 &#8195;&#8195;Yu Zhao, Huaming Du, Ying Liu, ***Shaopeng Wei***, Xingyan Chen, Fuzhen Zhuang, Qing Li, Gang Kou  
 
