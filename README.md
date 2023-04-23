@@ -36,7 +36,7 @@ My research interests include graph learning and its relevant applications on Fi
 &#8195; Neural Networks (2022) 
 
 ### Working Paper
-+ ***Shaopeng Wei***, Yu Guo, Qing Yang, Xingyan Chen, Qing Li, Fuzhen Zhuang, Ji Liu, Yu Zhao, Gang Kou
++ ***Shaopeng Wei***, Jia Lv, Yu Guo, Qing Yang, Xingyan Chen, Yu Zhao, Qing Li, Fuzhen Zhuang, Ji Liu, Gang Kou
 
 &#8195; Combining Intra-Risk and Contagion Risk for Enterprise Bankruptcy Prediction Using Graph Neural Networks. [[Paper](https://arxiv.org/pdf/2202.03874.pdf)]
 
@@ -47,7 +47,9 @@ My research interests include graph learning and its relevant applications on Fi
 
 
 ## Program
-+ Leader，Research on dynamic contagion risk from multi-source data of enterprises based on deep learnng. Supported by the Fundamental Research Funds for the Central Universities (JBK2207004), RMB 10000.
++ Leader. Research on dynamic contagion risk from multi-source data of enterprises based on deep learnng. Supported by the Fundamental Research Funds for the Central Universities (JBK2207004), RMB 10000.
++ Leader. Achieving explainable financial risk recognition using graph learning. Supported by the Fundamental Research Funds for the Central Universities (JBK2307022), RMB 20000.
+
 
 ## Contact
 Email: shaopeng.wei@inf.ethz.ch  
