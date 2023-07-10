@@ -5,7 +5,7 @@
 I’m currently a PhD candicate in Southwestern University of Finance and Economics (SWUFE).
 
 ## Experience
-+ 2022-2023    joint-PhD student founded by CSC (China Scholarship Council), supervised by Prof. [**Ce Zhang**](https://ds3lab.inf.ethz.ch/members/ce-zhang.html), ETH Zurich, Switzerland
++ 2022-2023    joint-PhD student funded by CSC (China Scholarship Council), supervised by Prof. [**Ce Zhang**](https://zhangce.github.io/), ETH Zurich, Switzerland
 + 2019-now   Southwestern University of Finance and Economics (SWUFE), Chengdu, China
     - PhD student, Majoring in Management of Big Data, supervised by Prof. [**Gang Kou**](https://scholar.google.com/citations?hl=zh-CN&user=dRL7HngAAAAJ) and Prof. [**Yu Zhao**](https://scholar.google.com/citations?hl=zh-CN&user=J3yW0aYAAAAJ) (co-supervise)
 + 2015-2019  Huazhong Agricultural University (HZAU), Wuhan, China
@@ -44,11 +44,15 @@ My research interests include graph learning and its relevant applications on Fi
 
 &#8195; Graph Learning and Its Applications: A Holistic Survey. [[Paper](https://arxiv.org/pdf/2212.08966.pdf)]  
 
++ Xiaozhong Lyu, Stefan Grafberger, Samantha Biegel, ***Shaopeng Wei***, Meng Cao, Sebastian Schelter, Ce Zhang
+  
+&#8195; Improving Retrieval-Augmented Large Language Models with Data-Centric Refinement. 
+
 
 
 ## Program
-+ Leader. Research on dynamic contagion risk from multi-source data of enterprises based on deep learnng. Supported by the Fundamental Research Funds for the Central Universities (JBK2207004), RMB 10000.
-+ Leader. Achieving explainable financial risk recognition using graph learning. Supported by the Fundamental Research Funds for the Central Universities (JBK2307022), RMB 20000.
++ Leader. Research on dynamic contagion risk from multi-source data of enterprises based on deep learnng. Supported by the Fundamental Research Funds for the Central Universities (JBK2207004), ￥10，000.
++ Leader. Achieving explainable financial risk recognition using graph learning. Supported by the Fundamental Research Funds for the Central Universities (JBK2307022), ￥20，000.
 
 
 ## Contact
